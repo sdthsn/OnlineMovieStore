@@ -1,0 +1,1 @@
+{"version":3,"file":"movie.routing.js","sourceRoot":"","sources":["movie.routing.ts"],"names":[],"mappings":";;;;QAOa,WAAW,EAKX,YAAY;;;;;;;;;;;;;YALZ,yBAAA,WAAW,GAAW;gBAC/B,EAAC,IAAI,EAAC,QAAQ,EAAE,SAAS,EAAE,yCAAkB,EAAE;gBAC/C,EAAC,IAAI,EAAC,WAAW,EAAE,SAAS,EAAC,6CAAoB,EAAC;aACrD,CAAA,CAAC;YAEW,0BAAA,YAAY,GAAwB,qBAAY,CAAC,QAAQ,CAAC,WAAW,CAAC,CAAA,CAAC"}
